@@ -41,10 +41,6 @@
 
 ---
 
-### 目录
-
-<!-- START doctoc -->
-<!-- END doctoc -->
 
 # dive
 
@@ -53,6 +49,22 @@
 **用于探索 docker 镜像,图层内容以及发现缩小 Docker 镜像大小的方法的工具.**
 
 ![Image](https://github.com/wagoodman/dive/blob/master/.data/demo.gif?raw=true)
+
+### 目录
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [简单入门](#%E7%AE%80%E5%8D%95%E5%85%A5%E9%97%A8)
+- [基本功能](#%E5%9F%BA%E6%9C%AC%E5%8A%9F%E8%83%BD)
+- [安装](#%E5%AE%89%E8%A3%85)
+- [键绑定](#%E9%94%AE%E7%BB%91%E5%AE%9A)
+- [配置](#%E9%85%8D%E7%BD%AE)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## 简单入门
 
 要分析 Docker 镜像,只需带上镜像的 tag/id/digest， 运行 dive:
 
