@@ -21,10 +21,9 @@
 <!-- repo = 'wagoodman/dive' -->
 <!-- commit = 'd9ec426300be6c96bab5f2299ff4a68bece79ba4' -->
 <!-- time = '2018-11-25' -->
-
-| 翻译的原文 | 与日期        | 最新更新 | 更多                       |
-| ---------- | ------------- | -------- | -------------------------- |
-| [commit]   | ⏰ 2018-11-25 | ![last]  | [中文翻译][translate-list] |
+翻译的原文 | 与日期 | 最新更新 | 更多
+---|---|---|---
+[commit] | ⏰ 2018-11-25 | ![last] | [中文翻译][translate-list]
 
 [last]: https://img.shields.io/github/last-commit/wagoodman/dive.svg
 [commit]: https://github.com/wagoodman/dive/tree/d9ec426300be6c96bab5f2299ff4a68bece79ba4
@@ -37,7 +36,7 @@
 
 ## 生活
 
-[help me live , live need money 💰](https://github.com/chinanf-boy/live-need-money)
+[If help, **buy** me coffee —— 营养跟不上了，给我来瓶营养快线吧! 💰](https://github.com/chinanf-boy/live-need-money)
 
 ---
 
